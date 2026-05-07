@@ -28,9 +28,9 @@ class Colors:
     BG_INPUT      = "#1C2030"   # Fondo de campos de texto y botones secundarios
 
     # ── Acento principal ─────────────────────────────────────────────────────
-    ACCENT        = "#FF5722"   # Naranja eléctrico — color principal de la marca
-    ACCENT_LIGHT  = "#FF7043"   # Variante más clara del acento (hover de botones)
-    ACCENT_GLOW   = "#FF572240" # Acento con 25% de opacidad (fondos decorativos)
+    ACCENT        = "#39FF14"   # Naranja eléctrico — color principal de la marca
+    ACCENT_LIGHT  = "#59F831"   # Variante más clara del acento (hover de botones)
+    ACCENT_GLOW   = "#00811640" # Acento con 25% de opacidad (fondos decorativos)
 
     # ── Texto ────────────────────────────────────────────────────────────────
     TEXT_PRIMARY   = "#F0F2F8"  # Texto principal (casi blanco, alto contraste)
@@ -45,7 +45,7 @@ class Colors:
 
     # ── Bordes ───────────────────────────────────────────────────────────────
     BORDER       = "#1F2335"   # Borde estándar entre secciones y tarjetas
-    BORDER_FOCUS = "#FF5722"   # Borde al enfocar un input (mismo que ACCENT)
+    BORDER_FOCUS = "#39FF14"   # Borde al enfocar un input (mismo que ACCENT)
 
     WHITE = "#FFFFFF"           # Blanco puro — texto sobre fondos de acento
 
